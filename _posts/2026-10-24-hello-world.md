@@ -3,7 +3,7 @@ title: Hello
 date: 2026-10-24 11:06:00 +0700
 categories: [general]
 tags: [blog, introduction]
-author: "Bảo Thanh"
+author: thanh-huynhbao
 description: a warm greeting and a brief introduction to my blog.
 ---
 
